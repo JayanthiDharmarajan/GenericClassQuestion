@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\QuestionGeneric.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\QuestionGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\QuestionGeneric.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\QuestionGeneric.AssemblyInfo.cs
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\QuestionGeneric.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\bin\Debug\net6.0\QuestionGeneric.exe
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\bin\Debug\net6.0\QuestionGeneric.deps.json
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\bin\Debug\net6.0\QuestionGeneric.runtimeconfig.json
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\bin\Debug\net6.0\QuestionGeneric.dll
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\bin\Debug\net6.0\QuestionGeneric.pdb
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\QuestionGeneric.dll
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\refint\QuestionGeneric.dll
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\QuestionGeneric.pdb
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\QuestionGeneric.genruntimeconfig.cache
+C:\Users\user\source\repos\QuestionGeneric\QuestionGeneric\obj\Debug\net6.0\ref\QuestionGeneric.dll
